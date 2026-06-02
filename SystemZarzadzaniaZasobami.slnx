@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ZasobyApi/ZasobyApi.csproj" Id="70e82d07-1703-4f88-8aa3-3e86ac4b5e8a" />
+  <Project Path="SystemZarzadzaniaZasobami.csproj" />
+</Solution>
